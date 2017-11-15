@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Fix Tweetdeck Font Weight",
+  "version": "1.0",
+  "description": "Tweetdeck uses 300 font weight, and it sucks. This extension changes the font weight to 400 and makes the page MUCH easier to read",
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://tweetdeck.twitter.com/*"]
+  }]
+ 
+}
