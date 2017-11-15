@@ -6,4 +6,4 @@ This chrome extension simply changes that back to `400` and lets you easily read
 
 ### How to install
 
-Download this repo, then open chrome://extensions in your browser and drag the `tweetdeck-font-weight` folder into the browser window.
+Download this repo, then open [chrome://extensions](chrome://extensions) in your browser and drag the `tweetdeck-font-weight` folder into the browser window.
